@@ -1,2 +1,2 @@
-# c-11
+# C++ 11
 code for study c++11
